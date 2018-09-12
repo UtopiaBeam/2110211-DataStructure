@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1424527993 source:c:\users\natch\onedrive\codes\cpcu\data structure\dq1_vequal\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1425051986 c:\users\natch\onedrive\codes\cpcu\data structure\dq1_vequal\vector.h
+	<stdexcept>
+	<iostream>
+
+1536738818 c:\users\natch\onedrive\codes\cpcu\data structure\dq1_vequal\student.h
+
